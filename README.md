@@ -2,7 +2,7 @@
 This side project features a Python script leveraging a popular convolutional architecture model to dynamically count and estimate car speeds in real-time from a live YouTube traffic camera feed. 
 Subsequently, it updates a local database connected through an API and presents a user-friendly dashboard for comprehensive data visualization.
 
-#Technologies
+# Technologies
 Throughout this project, I utilized essential libraries and tools such as NumPy, Pandas, Ultralytics, OpenCV (cv2), and PyDrive2 to ensure robust functionality and efficient implementation
 
 # Demo
