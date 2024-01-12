@@ -14,4 +14,5 @@ Throughout this project, I utilized essential libraries and tools such as NumPy,
 
 
 ## locker dashboard
-![dashboard cars](https://github.com/Apricold/CarFlowTracker/assets/114939614/375c150e-0e70-4fac-82cb-50d3e3f40353)
+![dashboard cars](https://github.com/Apricold/CarFlowTracker/assets/114939614/b3a6917c-2e38-4598-8a93-c4eda4c3f869)
+
